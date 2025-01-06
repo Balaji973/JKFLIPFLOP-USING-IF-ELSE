@@ -64,9 +64,7 @@ endmodule
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS:
-
-![image](https://github.com/user-attachments/assets/f5491fef-ac77-47a5-82c6-1353d1378c07)
-
+![Screenshot 2024-12-12 104758](https://github.com/user-attachments/assets/6938f8e1-dbd5-4230-8ac3-660155e6a476)
 ### RESULTS:
 
 Program for JK flipflops was verified in quartus using Verilog programming.
