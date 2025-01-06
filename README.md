@@ -41,7 +41,7 @@ JK FlipFlop
 ```
 module jk(j, k, clk, rst, q);
   input j, k, clk, rst;
-  output reg qb;
+  output reg q;
 
   always @(posedge clk or posedge rst) begin
     if (rst)
